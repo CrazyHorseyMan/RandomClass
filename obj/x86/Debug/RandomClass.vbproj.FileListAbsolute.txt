@@ -1,0 +1,18 @@
+C:\Users\User\AppData\Local\Temporary Projects\RandomClass\obj\x86\Debug\RandomClass.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\RandomClass\obj\x86\Debug\RandomClass.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\RandomClass\obj\x86\Debug\RandomClass.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\RandomClass\bin\Debug\RandomClass.exe
+C:\Users\User\AppData\Local\Temporary Projects\RandomClass\bin\Debug\RandomClass.pdb
+C:\Users\User\AppData\Local\Temporary Projects\RandomClass\bin\Debug\RandomClass.xml
+C:\Users\User\AppData\Local\Temporary Projects\RandomClass\obj\x86\Debug\RandomClass.exe
+C:\Users\User\AppData\Local\Temporary Projects\RandomClass\obj\x86\Debug\RandomClass.xml
+C:\Users\User\AppData\Local\Temporary Projects\RandomClass\obj\x86\Debug\RandomClass.pdb
+C:\Users\User\Desktop\Programme\RandomClass\RandomClass\obj\x86\Debug\RandomClass.xml
+C:\Users\User\Desktop\Programme\RandomClass\RandomClass\obj\x86\Debug\RandomClass.pdb
+C:\Users\User\Desktop\Programme\RandomClass\RandomClass\bin\Debug\RandomClass.exe
+C:\Users\User\Desktop\Programme\RandomClass\RandomClass\bin\Debug\RandomClass.pdb
+C:\Users\User\Desktop\Programme\RandomClass\RandomClass\bin\Debug\RandomClass.xml
+C:\Users\User\Desktop\Programme\RandomClass\RandomClass\obj\x86\Debug\RandomClass.Form1.resources
+C:\Users\User\Desktop\Programme\RandomClass\RandomClass\obj\x86\Debug\RandomClass.Resources.resources
+C:\Users\User\Desktop\Programme\RandomClass\RandomClass\obj\x86\Debug\RandomClass.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\Programme\RandomClass\RandomClass\obj\x86\Debug\RandomClass.exe
